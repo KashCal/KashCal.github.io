@@ -30,7 +30,7 @@ Built with Jetpack Compose and custom CalDAV implementation for reliable iCloud 
 
 ## Download
 
-Get the latest APK from [Releases](https://github.com/KashCal/releases).
+Get the latest APK from [Releases](https://github.com/KashCal/KashCal.github.io/tree/main/releases).
 
 <img width="500" height="900" alt="image" src="https://github.com/user-attachments/assets/3a83247a-7732-4a50-9dcd-bd7ff149b00b" />
 
