@@ -15,12 +15,6 @@ Built with Jetpack Compose and custom CalDAV implementation for reliable iCloud 
 - **Background Sync** - WorkManager-based periodic sync
 - **Material3 UI** - Modern design with dynamic colors
 
-## Screenshots
-
-| Calendar | Agenda | Event Editor |
-|----------|--------|--------------|
-| Month grid with event dots | Full-screen event list | iOS-style pickers |
-
 ## Setup iCloud Sync
 
 1. Open Settings → iCloud Setup
