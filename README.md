@@ -380,5 +380,8 @@ A: Yes. Credentials are encrypted using AES-256-GCM with Android Keystore. Calen
   Your calendar. Your privacy. Your control.
 </p>
 
-<img width="500" height="900" alt="image" src="https://github.com/user-attachments/assets/3a83247a-7732-4a50-9dcd-bd7ff149b00b" />
-
+  <p align="center">
+    <img src="https://kashcal.github.io/images/KashCal-UI.png" height="500">&nbsp;&nbsp;
+    <img src="https://kashcal.github.io/images/Apple-Calendar-Integration.png" height="500">&nbsp;&nbsp;
+    <img src="https://kashcal.github.io/images/ICS-Subscription.png" height="500">
+  </p>
