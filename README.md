@@ -3,7 +3,7 @@
 **A privacy-focused, offline-first calendar app for Android with iCloud sync**
 
 [![Android](https://img.shields.io/badge/Platform-Android%208.0%2B-green.svg)](https://developer.android.com)
-[![Version](https://img.shields.io/badge/Version-12.0.0-blue.svg)](https://github.com/onekash/kashcal/releases)
+[![Version](https://img.shields.io/badge/Version-13.0.0-blue.svg)](https://github.com/onekash/kashcal/releases)
 
 ---
 
