@@ -7,6 +7,14 @@
 
 ---
 
+  <p align="center">
+    <img src="https://kashcal.github.io/images/KashCal-UI.png" height="500">&nbsp;&nbsp;
+    <img src="https://kashcal.github.io/images/Apple-Calendar-Integration.png" height="500">&nbsp;&nbsp;
+    <img src="https://kashcal.github.io/images/ICS-Subscription.png" height="500">
+  </p>
+
+  ---
+
 ## Overview
 
 KashCal is a native Android calendar application designed for users who want seamless iCloud calendar synchronization without compromising on privacy or user experience. Built with modern Android architecture and a security-first mindset, KashCal offers a reliable, fast, and beautiful calendar experience.
@@ -380,8 +388,4 @@ A: Yes. Credentials are encrypted using AES-256-GCM with Android Keystore. Calen
   Your calendar. Your privacy. Your control.
 </p>
 
-  <p align="center">
-    <img src="https://kashcal.github.io/images/KashCal-UI.png" height="500">&nbsp;&nbsp;
-    <img src="https://kashcal.github.io/images/Apple-Calendar-Integration.png" height="500">&nbsp;&nbsp;
-    <img src="https://kashcal.github.io/images/ICS-Subscription.png" height="500">
-  </p>
+
